@@ -2,7 +2,11 @@
 
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
  
- 
+- 🔭 I'm attending StartSteps Digital Education GmbH!
+- 🌱 I’m currently learning Swift
+- 🥅 2023 Goals: Find a dream job and contribute to projects
+
+<br />
 
 ###  Talk with me, I am kinda awesome:
 
@@ -25,3 +29,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AnastasiiaAlyaseva&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
