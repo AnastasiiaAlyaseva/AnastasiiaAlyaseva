@@ -8,7 +8,7 @@
 
 <br />
 
-###  Talk with me, I am kinda awesome:
+###  Talk with me, I'm kinda awesome:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anastasiia-smirnova-207447267) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@anastasia_als_) 
