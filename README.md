@@ -10,7 +10,7 @@
 
 ###  Talk with me, I'm kinda awesome:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anastasiia-smirnova-207447267) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasiia-smirnova-alyaseva/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@anastasia_als_) 
 
 <br />
@@ -29,6 +29,3 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AnastasiiaAlyaseva&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
