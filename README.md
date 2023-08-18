@@ -6,6 +6,12 @@
 - 🌱 I’m currently learning Swift
 - 🌎 2023 Goals: Find a dream job and contribute to projects
 
+💡 I developed and released my first mobile app, which is now available on the App Store!
+
+If you'd like to learn more about my app or would like to try it for yourself, then follow the link....
+
+[![AppStore](https://img.shields.io/badge/AppStore-%230077B5.svg?logo=AppStore&logoColor=white)](https://apps.apple.com/de/app/justremember/id6461571293)
+
 <br />
 
 ###  Talk with me, I'm kinda awesome:
