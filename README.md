@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Swift
 - 🌎 2023 Goals: Find a dream job and contribute to projects
 
-💡 I developed and released my first mobile app, which is now available on the App Store!
+💡 I developed and launched my first mobile app, which is now available on the App Store!
 
 If you'd like to learn more about my app or would like to try it for yourself, then follow the link....
 
